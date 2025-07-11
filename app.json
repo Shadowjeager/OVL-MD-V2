@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "Ovl-MD_zHL9GhA6_SESSION-ID",
+      "value": "Ovl-MD_T0ZCdanA_SESSION-ID",
       "required": true
     },
     "DATABASE": {
