@@ -14,27 +14,27 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉  𝗗𝗘𝗔𝗧𝗧𝗛 ×༉  𝗠𝗢𝗢𝗡  ꧁⳹𖤍⳼꧂",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "242067266522",
       "required": true
     },
     "MODE": {
       "description": "Mode de fonctionnement du bot (public ou private)",
-      "value": "public",
+      "value": "private",
       "required": false
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "ovl",
+      "value": "Ovl-MD_zHL9GhA6_SESSION-ID",
       "required": true
     },
     "DATABASE": {
       "description": "Lien de la base de données PostgreSQL",
-      "value": "",
+      "value": "https://supabase.com/dashboard/project/kgjzvqmtaineyoywcaic/editor/17300?schema=public",
       "required": false
     },
     "LEVEL_UP": {
@@ -44,12 +44,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "Wa-sticker",
+      "value": "le faucheur-sticker",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉  𝗗𝗘𝗔𝗧𝗧𝗛 ×༉  𝗠𝗢𝗢𝗡  ꧁⳹𖤍⳼꧂",
       "required": false
     }
   },
